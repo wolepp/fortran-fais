@@ -18,7 +18,7 @@ program p8
     print *, jill%last_name
     print *, jack%age
     if(jack%sex == "F") print *, jack%first_name, " jest kobieta"
-    if(jill%sex == "F") print *, jack%first_name, " jest kobieta"
+    if(jill%sex == "F") print *, jill%first_name, " jest kobieta"
     
     stop
 end program p8
