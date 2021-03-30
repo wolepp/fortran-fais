@@ -2,7 +2,7 @@ program p26
     implicit none
     real :: maximal, minimal, il_skal
     integer, dimension(2, 3) :: matrix_A
-    logical, dimension(2, 3) :: mask ! bedzie niejawnie uzywana
+    !logical, dimension(2, 3) :: mask ! bedzie niejawnie uzywana
     ! w funkcjach operujacych na macierzy matrix_A
     !integer, dimension(3, 2) :: matrix_B
     !integer, dimension(2, 2) :: matrix_AB
