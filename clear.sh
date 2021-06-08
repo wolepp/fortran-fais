@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-rm *.out
-rm *.mod
+rm ./przepisane/*.out
+rm ./przepisane/*.mod
