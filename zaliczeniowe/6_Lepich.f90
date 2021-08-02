@@ -11,7 +11,7 @@ program z6
       y2 = f(x)
       x = x + step
       if (y1*y2 < 0) then
-         print *, x - step
+         print *, x
       end if
       y1 = y2
    end do
